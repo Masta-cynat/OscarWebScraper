@@ -23,7 +23,7 @@ querystring = {
 
 # Define the headers including the API key
 headers = {
-    "x-rapidapi-key": "92da8e5d2fmsh214ecbb135be802p15044bjsn5e71e5fd050f",
+    "x-rapidapi-key": 
     "x-rapidapi-host": "job-search-api1.p.rapidapi.com"
 }
 
